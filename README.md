@@ -1,60 +1,88 @@
 # 👋 Bienvenue sur mon GitHub
 
-Je suis étudiant en cycle ingénieur informatique à Polytech Tours (2023-2026), passionné par le développement logiciel et les systèmes distribués.  
-Actuellement à la recherche d'une alternance, je suis motivé à contribuer à des projets concrets et innovants.
+Étudiant en 4ᵉ année à Polytech Tours, je suis à la recherche d’une alternance en système d’information pour ma 5ᵉ année, avec un rythme de deux jours en entreprise (mercredi et jeudi) ainsi que les vacances scolaires, et une présence à temps plein en entreprise de février à fin août.
 
 ---
 
-## 🚀 Mes compétences principales
+## 📫 Contact
 
-- **Langages** : Java, C++, Python, JavaScript, TypeScript
-- **Frameworks** : Spring Boot, Angular, Vue.js, Node.js, .NET Core
-- **DevOps & outils** : Git, Docker, GitLab CI/CD, Jira, Confluence
-- **Bases de données** : MySQL, MariaDB.....
-- **Méthodologies** : Agile, Scrum....
-
----
-
-
-## 🛠️ Projets personnels réalisés
-
-### [romy](https://github.com/Sh37-Ai/romy)  
-Projet front-end en TypeScript, développement d’une interface utilisateur moderne et réactive.
-
-### [Ecole-frontend](https://github.com/Sh37-Ai/Ecole-frontend)  
-Application front-end en HTML/CSS/JavaScript, conçue pour gérer des données scolaires.
-
-### [Ecole-Backend](https://github.com/Sh37-Ai/Ecole-Backend)  
-Backend en Java, API REST pour la gestion des informations scolaires avec connexion à une base de données.
-
-### [my-project](https://github.com/Sh37-Ai/my-project)  
-Projet Vue.js complet, incluant gestion des états et interactions dynamiques avec l'utilisateur.
-
-
-
-## 🔗 Contributions à des projets collaboratifs
-
-### [CRUD_Project_SpringAngular](https://github.com/MatteoLanglois/CRUD_Project_SpringAngular)  
-Projet d’application CRUD en Java + Spring Boot (partie Angular retirée depuis).  
-**Contribution** : développement backend (gestion des réservations), scripts SQL et intégration.
-
-### [object_detection](https://github.com/nathaaanbraud/object_detection)  
-Projet de détection d’objets en Python utilisant des modèles d’apprentissage automatique.  
-**Contribution** : implémentation des algorithmes de détection et optimisation des performances.
-
-### [front_projet_boite_livre](https://github.com/ZlatanIbrahimovicc/front_projet_boite_livre)  
-Front-end d’une application web pour la gestion d’une boîte à livres, réalisé en Angular.  
-**Contribution** : développement des composants Angular et intégration avec l’API backend.
-
-### [projet-ql](https://github.com/SylvainBRUNET37/projet-ql)  
-Projet en équipe sur une application web.  
-**Contribution** : développement front-end et gestion des tests unitaires.
+- Email : salahhakkal50@icloud.com  
+- Téléphone : +33 6 01 89 44 16  
+- Localisation : 37200 Tours / 35 RENNES  
+- LinkedIn : [linkedin.com/in/salah-hakkal](https://www.linkedin.com/in/salah-hakkal-613731282/)  
+- GitHub : [github.com/Sh37-Ai](https://github.com/Sh37-Ai)
 
 ---
 
-## 📫 Me contacter
+## 🎯 Projets marquants
 
-- 📧 salahhakkal50@icloud.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/salah-hakkal-613731282/)  
-- 🧑‍💻 [GitHub](https://github.com/Sh37-Ai)
+### Développement d'un site web avec Worldline  
+- Gestion des réservations de matériels en entreprise (matériel et utilisateurs)  
+- Technologies : Vue.js, Firebase  
+- Équipe : 2 personnes
+
+### Développement d'un site web avec Capgemini  
+- Gestion des réservations de livres et informations utilisateurs de bibliothèque  
+- Technologies : Spring Boot, Angular  
+- Équipe : 2 personnes
+
+### Système de pointage du personnel en Java (JavaFX)  
+- Interfaces graphiques + serveur socket pour communication et sauvegarde des données dans un fichier  
+- Technologies : Java, JavaFX  
+- Équipe : 2 personnes
+
+---
+
+## 🎓 Formation
+
+- **Cycle ingénieur en informatique, Polytech Tours** (2023 - 2026)  
+- **Classes préparatoires MPSI-MP** (2021 - 2023)  
+
+---
+
+## 💻 Compétences techniques
+
+- **Langages** : Python, C++, C#, Java, JavaFX, .NET Core  
+- **Web** : React (certifié), JavaScript, TypeScript, Angular, HTML5, Django, Node.js  
+- **IA** : CNN, LLM (TensorFlow, PyTorch)  
+- **Bases de données** : Oracle, PostgreSQL, MySQL, MariaDB, MongoDB  
+- **Frameworks** : .NET Core, NodeJS, Angular, Spring Boot, Hibernate, JavaFX  
+- **Méthodes** : Scrum (Agile), Cycle en V, UML  
+- **Outils & plateformes** : Git, GitLab, Jenkins, Ansible, Grafana, Kubernetes  
+- **Gestion & tests** : Jira, Selenium, Postman, JUnit, tests unitaires  
+
+---
+
+## 🌍 Langues
+
+- Anglais : C1  
+- Français : C1  
+- Arabe : Langue maternelle  
+
+---
+
+## 💼 Expériences professionnelles
+
+- **Stage chez Groupe Rocher, La Gacilly** (avril 2025 - juillet 2025)  
+Mise en place d’outils de suivi (JIRA, Confluence), cartographie des applications SAP (ECC6, APO, S/4), compréhension des flux avec WMS, Piliers, etc.
+
+- **Stagiaire Web Maniac, Casablanca, Maroc** (juin 2024 - août 2024)  
+Développement d'une interface JavaFX intégrée à une base MariaDB.
+
+- **Employé polyvalent, MY TACOS TOURS** (juin 2023 - septembre 2023)  
+Service client, gestion des commandes et de la caisse, travail en équipe dans un environnement dynamique.
+
+- **Aide aux devoirs, Collège Montaigne, Tours** (en cours)  
+Soutien scolaire hebdomadaire chaque jeudi de 15h à 17h.
+
+- **Délégué de promotion** (en cours)  
+Assurer la communication fluide entre parties et gestion des problèmes.
+
+---
+
+## 📚 Références
+
+- Alquier Li-wen (enseignant d’anglais) — liwen.alquier@univ-tours.fr  
+- Kergosien Yannick (enseignant en IA) — yannick.kergosien@univ-tours.fr  
+
 
