@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub
 
-Étudiant en 4ᵉ année à Polytech Tours, je suis à la recherche d’une alternance en système d’information pour ma 5ᵉ année, avec un rythme de deux jours en entreprise (mercredi et jeudi) ainsi que les vacances scolaires, et une présence à temps plein en entreprise de février à fin août.
+Étudiant en dernière année à Polytech Tours, spécialisé en développement web et mobile, passionné par l’IA et les architectures logicielles modernes. À la recherche d’un stage de  6 mois à partir du 16 février 2026. Capable de travailler en équipe et de mener des projets du concept à la livraison.
 
 ---
 
