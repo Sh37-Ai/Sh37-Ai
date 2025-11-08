@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 
-- Email : salahhakkal50@icloud.com  
+- Email : salahhakkal50@gmail.com  
 - Téléphone : +33 6 01 89 44 16  
 - Localisation : 37200 Tours / 35 RENNES  
 - LinkedIn : [linkedin.com/in/salah-hakkal](https://www.linkedin.com/in/salah-hakkal-613731282/)  
