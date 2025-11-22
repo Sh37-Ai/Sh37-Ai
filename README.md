@@ -55,7 +55,7 @@
 
 ## 🌍 Langues
 
-- Anglais : C1  
+- Anglais : B2  
 - Français : C1  
 - Arabe : Langue maternelle  
 
@@ -63,8 +63,8 @@
 
 ## 💼 Expériences professionnelles
 
-- **Stage chez Groupe Rocher, La Gacilly** (avril 2025 - juillet 2025)  
-Mise en place d’outils de suivi (JIRA, Confluence), cartographie des applications SAP (ECC6, APO, S/4), compréhension des flux avec WMS, Piliers, etc.
+- ** Stage – Développement fullstack Groupe Rocher : La Gacilly(56)
+Développement fullstack avec Angular pour le front-end et Spring Boot pour le back-end d’une application de suivi et gestion d’une ligne de production de flacons.
 
 - **Stagiaire Web Maniac, Casablanca, Maroc** (juin 2024 - août 2024)  
 Développement d'une interface JavaFX intégrée à une base MariaDB.
